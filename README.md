@@ -6,4 +6,4 @@ the average album rating weighted by play counts.
 
 ## Usage
 
-node index.js
+./index.js -r
